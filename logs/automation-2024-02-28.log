@@ -1,0 +1,64 @@
+15:15:34.572 [main] INFO  bikesMain.DisplayNewBikes - clicked on newbikes and selected upcoming bikes 
+15:15:37.766 [main] INFO  bikesMain.DisplayNewBikes - select dropdown
+15:15:37.774 [main] INFO  bikesMain.DisplayNewBikes - clicked honda in dropdown
+15:15:39.374 [main] INFO  bikesMain.DisplayNewBikes - scrolling to view more filters
+15:15:41.079 [main] INFO  bikesMain.DisplayNewBikes - printing the upcoming honda bikes under 4 lakh
+15:15:44.638 [main] INFO  bikesMain.DisplayNewBikes - Navigate to second page
+15:15:44.648 [main] INFO  bikesMain.DisplayNewBikes - click on usedCars 
+15:15:46.396 [main] INFO  bikesMain.DisplayNewBikes - Click chennai as city
+15:15:50.462 [main] INFO  bikesMain.DisplayNewBikes - scrolling to popularmodels;
+15:15:57.576 [main] INFO  bikesMain.DisplayNewBikes - Clicking login button
+15:16:03.678 [main] INFO  bikesMain.DisplayNewBikes - Click on the google
+15:16:07.114 [main] INFO  bikesMain.DisplayNewBikes - Opening new Window
+15:16:13.735 [main] INFO  bikesMain.DisplayNewBikes - Entering Email
+15:16:14.820 [main] INFO  bikesMain.DisplayNewBikes - Clicking Next
+15:16:15.609 [main] INFO  bikesMain.DisplayNewBikes - Error Msg Captured
+17:41:05.292 [main] INFO  bikesMain.DisplayNewBikes - clicked honda in dropdown
+17:41:15.376 [main] INFO  bikesMain.DisplayNewBikes - scrolling to view more filters
+17:41:55.611 [main] INFO  bikesMain.DisplayNewBikes - printing the upcoming honda bikes under 4 lakh
+17:41:56.100 [main] INFO  bikesMain.DisplayNewBikes - Navigate to second page
+17:41:56.113 [main] INFO  bikesMain.DisplayNewBikes - click on usedCars 
+17:42:06.305 [main] INFO  bikesMain.DisplayNewBikes - Click chennai as city
+17:42:26.466 [main] INFO  bikesMain.DisplayNewBikes - Clicking login button
+17:42:41.536 [main] INFO  bikesMain.DisplayNewBikes - Click on the google
+17:44:47.657 [main] INFO  bikesMain.DisplayNewBikes - clicked on newbikes and selected upcoming bikes 
+17:44:50.130 [main] INFO  bikesMain.DisplayNewBikes - select dropdown
+17:44:50.134 [main] INFO  bikesMain.DisplayNewBikes - clicked honda in dropdown
+17:44:53.035 [main] INFO  bikesMain.DisplayNewBikes - scrolling to view more filters
+17:44:53.559 [main] INFO  bikesMain.DisplayNewBikes - printing the upcoming honda bikes under 4 lakh
+17:44:56.213 [main] INFO  bikesMain.DisplayNewBikes - Navigate to second page
+17:44:56.223 [main] INFO  bikesMain.DisplayNewBikes - click on usedCars 
+17:44:56.937 [main] INFO  bikesMain.DisplayNewBikes - Click chennai as city
+17:45:09.347 [main] INFO  bikesMain.DisplayNewBikes - scrolling to popularmodels;
+17:45:13.011 [main] INFO  bikesMain.DisplayNewBikes - Clicking login button
+17:45:18.396 [main] INFO  bikesMain.DisplayNewBikes - Click on the google
+17:45:24.217 [main] INFO  bikesMain.DisplayNewBikes - Opening new Window
+17:45:30.654 [main] INFO  bikesMain.DisplayNewBikes - Entering Email
+17:45:31.187 [main] INFO  bikesMain.DisplayNewBikes - Clicking Next
+17:45:32.220 [main] INFO  bikesMain.DisplayNewBikes - Error Msg Captured
+17:47:10.994 [main] INFO  stepDefination.Newbikes - Website opened
+17:47:31.549 [main] INFO  stepDefination.Newbikes - clicked on newbikes and selected upcoming bikes 
+17:47:34.022 [main] INFO  stepDefination.Newbikes - select dropdown
+17:47:34.025 [main] INFO  stepDefination.Newbikes - clicked honda in dropdown
+17:47:35.470 [main] INFO  stepDefination.Newbikes - scrolling to view more filters
+17:47:42.568 [main] INFO  stepDefination.Newbikes - Navigate to Home page
+17:47:45.234 [main] INFO  stepDefination.Newbikes - click on usedCars 
+17:47:52.198 [main] INFO  stepDefination.Newbikes - Click chennai as city
+17:47:52.279 [main] INFO  stepDefination.Newbikes - scrolling to popularmodels;
+17:47:55.030 [main] INFO  stepDefination.Newbikes - Clicking login button
+17:47:55.039 [main] INFO  stepDefination.Newbikes - Click on the google
+17:47:59.144 [main] INFO  stepDefination.Newbikes - Opening new Window
+17:48:09.597 [main] INFO  stepDefination.Newbikes - Entering Email
+17:48:09.598 [main] INFO  stepDefination.Newbikes - Clicking Next
+17:48:11.210 [main] INFO  stepDefination.Newbikes - Error Msg Captured
+17:59:49.713 [main] INFO  stepDefination.Newbikes - Website opened
+17:59:51.712 [main] INFO  stepDefination.Newbikes - clicked on newbikes and selected upcoming bikes 
+17:59:54.195 [main] INFO  stepDefination.Newbikes - select dropdown
+17:59:54.197 [main] INFO  stepDefination.Newbikes - clicked honda in dropdown
+17:59:55.425 [main] INFO  stepDefination.Newbikes - scrolling to view more filters
+18:00:02.789 [main] INFO  stepDefination.Newbikes - Navigate to Home page
+18:00:05.049 [main] INFO  stepDefination.Newbikes - click on usedCars 
+18:00:17.594 [main] INFO  stepDefination.Newbikes - Clicking login button
+18:00:17.599 [main] INFO  stepDefination.Newbikes - Click on the google
+18:00:21.638 [main] INFO  stepDefination.Newbikes - Opening new Window
+18:00:32.317 [main] INFO  stepDefination.Newbikes - Entering Email

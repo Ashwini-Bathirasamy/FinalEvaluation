@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="extentReports.Extentreports"/>
+  </listeners>
+  <test thread-count="2" parallel="methods" name="Test(failed)" verbose="0">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="bikesMain.DisplayNewBikes">
+        <methods>
+          <include name="ManufacturerDrop"/>
+          <include name="UpcomingBikes"/>
+          <include name="GetCarBrands"/>
+          <include name="Viewmore"/>
+          <include name="Google"/>
+          <include name="EnterDetails"/>
+          <include name="ModelName"/>
+          <include name="Lognwndw"/>
+          <include name="login"/>
+          <include name="setup"/>
+          <include name="ClickHonda"/>
+          <include name="Close"/>
+          <include name="NewBikes"/>
+          <include name="ErrorMsg"/>
+        </methods>
+      </class> <!-- bikesMain.DisplayNewBikes -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
